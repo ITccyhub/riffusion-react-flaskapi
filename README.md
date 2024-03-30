@@ -15,3 +15,5 @@ admin
 
 ![image](https://github.com/ITccyhub/riffusion-react-flaskapi/assets/77144099/376f1bd8-b49b-46e8-bf8d-0b8285697f17)
 ![9004731e5cbd4a030c6cf144dcfa979](https://github.com/ITccyhub/riffusion-react-flaskapi/assets/77144099/9a9b3864-5f08-4551-9d64-b033908b6e2a)
+![c0b4d64581c15322f2f945ac60d794f](https://github.com/ITccyhub/riffusion-react-flaskapi/assets/77144099/f2fade1e-65da-47d2-b9dc-755d6cccd212)
+![404dbe42cc6758b04833d50eb8b9469](https://github.com/ITccyhub/riffusion-react-flaskapi/assets/77144099/471ff892-1a41-43e6-bd1c-30747de01655)
